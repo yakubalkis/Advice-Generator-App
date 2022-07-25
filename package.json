@@ -1,0 +1,16 @@
+{
+  "name": "16-advice-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html && parcel watch src/index.html  "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
